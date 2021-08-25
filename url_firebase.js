@@ -27,3 +27,5 @@ const commands=[
 ];
 const new_time=["1:30:!5","3:22:56","3:51:20","5:13:43"];
 const deployUrls=["https://challenge-2abc3.web.app/"];
+const user="wer@gmail.com"
+const pass="123456"
