@@ -1,3 +1,9 @@
+# Amazon clone is deployed at this link
+
+This single page web app with react is available at [website](
+    https://challenge-2abc3.web.app/
+).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
