@@ -18,11 +18,11 @@ const commands=[
 "npm install axios",
 "firebase init",
 "cd functions",
-"cd functions/npm install express",
-"cd functions/npm install cors",
-"cd functions/npm install stripe",
-"cd functions/firebase emulators:start",
-"cd amazon-clone/npm install moment"
+"cd functions;npm install express",
+"cd functions;npm install cors",
+"cd functions;npm install stripe",
+"cd functions;firebase emulators:start",
+"cd amazon-clone;npm install moment"
 
 ];
 const new_time=["1:30:!5","3:22:56","3:51:20","5:13:43"];
