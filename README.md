@@ -1,4 +1,4 @@
-# Amazon clone is deployed at this link
+# Amazon clone is deployed well
 
 This single page web app with react is available at [website](
     https://challenge-2abc3.web.app/
